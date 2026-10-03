@@ -1,0 +1,10 @@
+# Local database file containing test entries
+db.sqlite3
+
+# Uploaded image files storage container
+/media/
+
+# Python compiled cache tracks
+__pycache__/
+*.pyc
+.DS_Store
